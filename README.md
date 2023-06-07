@@ -1,5 +1,5 @@
 # Cleaner-Restaurant-Names 🍔
-Fine tuned model (T5-Google) for clean restaurant names (remove address and stow words automatically) [Spanish]
+Fine tuned model (T5-Google) for clean restaurant names (remove address and stop words automatically) [Spanish]
 
 Given a dataset of inputs (regular name) and outputs (cleaned name) train a sequence to sequence model to learn how to clean names.
 
